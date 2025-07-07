@@ -1,2 +1,2 @@
 # Kaggle-Compitition-Files
-Kaggle Compitition files 
+Kaggle Compitition Notebboks for the compititions i have been till now. 
